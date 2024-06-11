@@ -4,6 +4,6 @@ form {
   height: auto;
 }
 
-.submit {
+#submit {
   text-align: center;
 }
